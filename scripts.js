@@ -1,6 +1,25 @@
-// Enter a description of this program here.
+// simple arithmetic calculator app.
 
 /**
- * Write some pseudo code steps here.
- * Use those steps as your `commit` messages (and delete them from here as you complete a step.)
+ * Log the value of the select and the inputs
  */
+
+function add(a, b) {
+  return Number(a) + Number(b);
+}
+
+function subtract(a, b) {
+  return a - b;
+}
+
+function multiply(a, b) {
+  return a * b;
+}
+
+function divide(a, b) {
+  return a / b;
+}
+
+function remainder(a, b) {
+  return a % b;
+}

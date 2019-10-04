@@ -20,5 +20,8 @@
   "editor.fontLigatures": true,
   "better-comments.highlightPlainText": true,
   "eslint.autoFixOnSave": true,
+  "emmet.triggerExpansionOnTab": true,
   "files.eol": "\n"
+
+
 }
